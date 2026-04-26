@@ -40,6 +40,11 @@
 - Performs country-wise and state-wise analysis
 - Extracts latest date data and computes totals
 - Focuses on data cleaning, transformation, and visualization workflow
+
+<img width="1808" height="543" alt="image" src="https://github.com/user-attachments/assets/1c869540-1c57-49ac-a52f-dc2b72ab9e0b" />
+<img width="1808" height="542" alt="image" src="https://github.com/user-attachments/assets/e59179e5-d1a8-43ee-bc32-7cb455b8dce8" />
+<img width="1807" height="592" alt="image" src="https://github.com/user-attachments/assets/191d438d-2793-4c1d-92b0-36cd40f20ce2" />
+
 ## Conclusion:
 - Demonstrates complete workflow of data cleaning, processing, and analysis using Python.  
 - Provides interactive visualization of COVID-19 data using maps for better insights.  
